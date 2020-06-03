@@ -2,11 +2,15 @@
 
 ## Setup
 
+```bash
+npm i
+```
+migration tables
 
 ```js
 adonis migration:run
 ```
-and
+and finally
 
 ```bash
 npm run dev
